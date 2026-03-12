@@ -1,0 +1,145 @@
+{
+  "contacts": [
+    {
+      "name": "HighGear Ventures",
+      "city": "San Francisco",
+      "contact": "Alexandria Lafci",
+      "email": "alexandria@hometeam.vc",
+      "row_number": 521
+    },
+    {
+      "name": "Hivemind Ventures",
+      "city": "San Francisco",
+      "contact": "Julie Castro Abrams",
+      "email": "julie@howwomeninvest.com",
+      "row_number": 522
+    },
+    {
+      "name": "Hometeam Ventures",
+      "city": "San Francisco",
+      "contact": "Antonio Rallo",
+      "email": "trallo@id345.tech",
+      "row_number": 523
+    },
+    {
+      "name": "How Women Invest",
+      "city": "San Francisco",
+      "contact": "Robert Ethier",
+      "email": "robert@impactscience.vc",
+      "row_number": 524
+    },
+    {
+      "name": "ID345",
+      "city": "San Francisco",
+      "contact": "Douglas Kirkpatrick",
+      "email": "dkirkpatrick@eridan.io",
+      "row_number": 525
+    },
+    {
+      "name": "Impact Science Ventures",
+      "city": "San Francisco",
+      "contact": "Julia Prakapovich",
+      "email": "julia@interfacefund.vc",
+      "row_number": 526
+    },
+    {
+      "name": "InnerProduct Partners",
+      "city": "San Francisco",
+      "contact": "Richard Chen",
+      "email": "richard.chen@flexhaul.ai",
+      "row_number": 527
+    },
+    {
+      "name": "Interface Fund",
+      "city": "San Francisco",
+      "contact": "Ignacio Mill\u00e1n Vilela",
+      "email": "ignacio@junipero.vc",
+      "row_number": 528
+    },
+    {
+      "name": "Iterative Venture",
+      "city": "San Francisco",
+      "contact": "Leandro Pisaroni Gerbaldo",
+      "email": "leandro@kaleiventures.com",
+      "row_number": 529
+    },
+    {
+      "name": "Junipero",
+      "city": "San Francisco",
+      "contact": "Susan Choe",
+      "email": "susan@katalyst.vc",
+      "row_number": 530
+    },
+    {
+      "name": "Kalei Ventures",
+      "city": "San Francisco",
+      "contact": "Regan Bozman",
+      "email": "regan@latticecap.co",
+      "row_number": 531
+    },
+    {
+      "name": "Katalyst Ventures",
+      "city": "San Francisco",
+      "contact": "Helen Zelman Boniske",
+      "email": "helz@lemnoslabs.com",
+      "row_number": 532
+    },
+    {
+      "name": "Lattice Capital",
+      "city": "San Francisco",
+      "contact": "Ren\u00e9e Alexiev",
+      "email": "renee@lionheart.vc",
+      "row_number": 533
+    },
+    {
+      "name": "Lemnos",
+      "city": "San Francisco",
+      "contact": "Shayna Modarresi",
+      "email": "shayna@thebond.co",
+      "row_number": 534
+    },
+    {
+      "name": "Lionheart Ventures",
+      "city": "San Francisco",
+      "contact": "Sam Yu",
+      "email": "syu@longvp.com",
+      "row_number": 535
+    },
+    {
+      "name": "Lodestar Ventures",
+      "city": "San Francisco",
+      "contact": "Martin Gedalin",
+      "email": "martin@lumiacapital.com",
+      "row_number": 536
+    },
+    {
+      "name": "Long Venture Partners",
+      "city": "San Francisco",
+      "contact": "Georgia Lu",
+      "email": "georgia.lu@magnet.ventures",
+      "row_number": 537
+    },
+    {
+      "name": "Lumia Capital",
+      "city": "San Francisco",
+      "contact": "Kevin Laws",
+      "email": "kevin@angellist.com",
+      "row_number": 538
+    },
+    {
+      "name": "Magnet Ventures",
+      "city": "San Francisco",
+      "contact": "Morgan Schwanke",
+      "email": "morgan@manaventures.vc",
+      "row_number": 539
+    },
+    {
+      "name": "Maiden Lane",
+      "city": "San Francisco",
+      "contact": "Kevin Jiang",
+      "email": "kj@mangustacap.com",
+      "row_number": 540
+    }
+  ],
+  "skipped": []
+}
