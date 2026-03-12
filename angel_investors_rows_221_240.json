@@ -1,0 +1,125 @@
+{
+  "header": "name,city,contact,email,",
+  "data": [
+    {
+      "row_number": 222,
+      "angel_name": "Global Public Offering Fund",
+      "contact": "Deb Gerardi Kemper",
+      "email": "dkemper@goldenseeds.com"
+    },
+    {
+      "row_number": 223,
+      "angel_name": "Golden Seeds Ventures",
+      "contact": "Jacob Afriat",
+      "email": "jacob@greatcircle.vc"
+    },
+    {
+      "row_number": 224,
+      "angel_name": "Great Circle Ventures",
+      "contact": "Celine Kwok",
+      "email": "ckwok@greatoaksvc.com"
+    },
+    {
+      "row_number": 225,
+      "angel_name": "Great Oaks Venture Capital",
+      "contact": "Nobu Iguchi",
+      "email": "nobu@greatwave.vc"
+    },
+    {
+      "row_number": 226,
+      "angel_name": "Great Wave Ventures",
+      "contact": "Alex Ferber",
+      "email": "alex@greenegg.vc"
+    },
+    {
+      "row_number": 227,
+      "angel_name": "Green Egg Ventures",
+      "contact": "Paul Palmieri",
+      "email": "paul@grit.vc"
+    },
+    {
+      "row_number": 228,
+      "angel_name": "Grit Capital Partners",
+      "contact": "James Gettinger",
+      "email": "james@gutter.cc"
+    },
+    {
+      "row_number": 229,
+      "angel_name": "Gutter Capital",
+      "contact": "Oliver B. Libby",
+      "email": "oliver@h-l.vc"
+    },
+    {
+      "row_number": 230,
+      "angel_name": "H/L Ventures",
+      "contact": "Max Batt",
+      "email": "max@hangar.is"
+    },
+    {
+      "row_number": 231,
+      "angel_name": "Hangar Capital",
+      "contact": "Jinlong Wang",
+      "email": "jerry.wang@hi2global.com"
+    },
+    {
+      "row_number": 232,
+      "angel_name": "Hi2 Global",
+      "contact": "Laurence Girard",
+      "email": "laurence.girard@healthcareshares.com"
+    },
+    {
+      "row_number": 233,
+      "angel_name": "Hippocrates Ventures",
+      "contact": "Shummi Jindal",
+      "email": "sjindal@hudsonparkadvisors.com"
+    },
+    {
+      "row_number": 234,
+      "angel_name": "Hudson Park Advisors",
+      "contact": "Heather Hartnett",
+      "email": "heather@human.vc"
+    },
+    {
+      "row_number": 235,
+      "angel_name": "Human Ventures",
+      "contact": "Chip Austin",
+      "email": "caustin@hbse.vc"
+    },
+    {
+      "row_number": 236,
+      "angel_name": "i-Hatch Ventures",
+      "contact": "Miriam Dong",
+      "email": "miriam@id3.vc"
+    },
+    {
+      "row_number": 237,
+      "angel_name": "ID3 Ventures",
+      "contact": "Nish Patel",
+      "email": "nish@inertia.vc"
+    },
+    {
+      "row_number": 238,
+      "angel_name": "Inertia Ventures",
+      "contact": "Kabe Roashan",
+      "email": "kabe@inflectionvc.com"
+    },
+    {
+      "row_number": 239,
+      "angel_name": "Inflection Ventures (New York)",
+      "contact": "Andrew J. Chomer",
+      "email": "andrew@integrated.vc"
+    },
+    {
+      "row_number": 240,
+      "angel_name": "Integrated",
+      "contact": "Vincent Diallo",
+      "email": "vincent@progression.fund"
+    },
+    {
+      "row_number": 241,
+      "angel_name": "Interlace Ventures",
+      "contact": "Lisa Chai",
+      "email": "lisa@interwoven.vc"
+    }
+  ]
+}
