@@ -1,0 +1,149 @@
+{
+  "valid_contacts": [
+    {
+      "index": 684,
+      "name": "Dubilier & Company",
+      "contact": "Robert Lia",
+      "email": "rlia@wheelhouse360.com",
+      "city": "Stamford"
+    },
+    {
+      "index": 685,
+      "name": "Ineffable Ventures",
+      "contact": "Ronjon Nag",
+      "email": "rnag@superbio.ai",
+      "city": "Stamford"
+    },
+    {
+      "index": 686,
+      "name": "Realist Ventures",
+      "contact": "Yoshikazu Akinaga",
+      "email": "akinaga@docomoinnovations.com",
+      "city": "Stamford"
+    },
+    {
+      "index": 687,
+      "name": "Thynk Ventures",
+      "contact": "Alex Chengming Ren",
+      "email": "alex@fellows.fund",
+      "city": "Stamford"
+    },
+    {
+      "index": 688,
+      "name": "TWJ Capital",
+      "contact": "Allan W. May",
+      "email": "allan.may@lifescienceangels.com",
+      "city": "Stamford"
+    },
+    {
+      "index": 689,
+      "name": "Wheelhouse 360",
+      "contact": "Jack Feng",
+      "email": "jack@llamaventure.com",
+      "city": "Stamford"
+    },
+    {
+      "index": 690,
+      "name": "R42 Group",
+      "contact": "Rajan Raghavan",
+      "email": "rajan@truelark.com",
+      "city": "Stanfrod"
+    },
+    {
+      "index": 691,
+      "name": "Docomo Innovations",
+      "contact": "Tim Hoag",
+      "email": "tim@artisanalv.com",
+      "city": "Sunnyvale"
+    },
+    {
+      "index": 692,
+      "name": "Fellows Fund",
+      "contact": "Arif Fazal",
+      "email": "arif@blueberryventures.vc",
+      "city": "Sunnyvale"
+    },
+    {
+      "index": 693,
+      "name": "Life Science Angels",
+      "contact": "Eduardo Paolo Minguzzi",
+      "email": "paolo@vujade.cl",
+      "city": "Sunnyvale"
+    },
+    {
+      "index": 694,
+      "name": "Llama Venture",
+      "contact": "Michael Friedman",
+      "email": "mike@facetec.com",
+      "city": "Sunnyvale"
+    },
+    {
+      "index": 695,
+      "name": "The Fabric",
+      "contact": "Niv Harizman",
+      "email": "niv.harizman@tytocapital.com",
+      "city": "Sunnyvale"
+    },
+    {
+      "index": 696,
+      "name": "Artisanal Ventures",
+      "contact": "Donald J. Rogers",
+      "email": "drogers@stridecapital.com",
+      "city": "Tiburon"
+    },
+    {
+      "index": 697,
+      "name": "Blueberry Ventures",
+      "contact": "Dana Eli-Lorch",
+      "email": "dana@vesey.vc",
+      "city": "Tiburon"
+    }
+  ],
+  "invalid_contacts": [
+    {
+      "index": 698,
+      "name": "VujaDe Ventures",
+      "contact": "",
+      "email": "",
+      "city": "Union City",
+      "reason": "missing email"
+    },
+    {
+      "index": 699,
+      "name": "Ignite Farm",
+      "contact": "",
+      "email": "",
+      "city": "Walnut Creek",
+      "reason": "missing email"
+    },
+    {
+      "index": 700,
+      "name": "Riverside Management Group",
+      "contact": "",
+      "email": "",
+      "city": "Westport",
+      "reason": "missing email"
+    },
+    {
+      "index": 701,
+      "name": "Stride Capital Group",
+      "contact": "",
+      "email": "",
+      "city": "Westport",
+      "reason": "missing email"
+    },
+    {
+      "index": 702,
+      "name": "Vesey Ventures",
+      "contact": "",
+      "email": "",
+      "city": "Westport",
+      "reason": "missing email"
+    }
+  ],
+  "summary": {
+    "total_chunk_count": 19,
+    "valid_count": 14,
+    "invalid_count": 5
+  }
+}
