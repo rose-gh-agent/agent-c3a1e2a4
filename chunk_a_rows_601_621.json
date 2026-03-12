@@ -1,0 +1,175 @@
+{
+  "source": "vcs_chunks_601_702.json",
+  "chunk": "A",
+  "row_range": "601-621",
+  "total_contacts": 21,
+  "batches": {
+    "batch_1": {
+      "label": "Contacts 1-5",
+      "contacts": [
+        {
+          "index": 1,
+          "full_name": "Karine Sarkissian",
+          "email": "k.sarkissian@tamar.vc",
+          "firm_name": "Sugar Capital",
+          "city": "San Francisco"
+        },
+        {
+          "index": 2,
+          "full_name": "Patrick Murphy",
+          "email": "pm@amaranthine.vc",
+          "firm_name": "Supermoon Capital",
+          "city": "San Francisco"
+        },
+        {
+          "index": 3,
+          "full_name": "Steven Lurie",
+          "email": "steven@teambuilderventures.com",
+          "firm_name": "Switch Ventures",
+          "city": "San Francisco"
+        },
+        {
+          "index": 4,
+          "full_name": "Jeanne Sullivan",
+          "email": "jeanne@starvestpartners.com",
+          "firm_name": "Tamar Ventures (San Francisco)",
+          "city": "San Francisco"
+        },
+        {
+          "index": 5,
+          "full_name": "Lily Clayton",
+          "email": "lily@age1.com",
+          "firm_name": "Tapestry VC",
+          "city": "San Francisco"
+        }
+      ]
+    },
+    "batch_2": {
+      "label": "Contacts 6-10",
+      "contacts": [
+        {
+          "index": 6,
+          "full_name": "Eros Resmini",
+          "email": "eros@themini.fund",
+          "firm_name": "Team Builder Ventures",
+          "city": "San Francisco"
+        },
+        {
+          "index": 7,
+          "full_name": "Tabreez Suleman Verjee",
+          "email": "tabreez.verjee@uprising.us",
+          "firm_name": "The Arcview Group",
+          "city": "San Francisco"
+        },
+        {
+          "index": 8,
+          "full_name": "Mike Sherbakov",
+          "email": "mike@veteran.fund",
+          "firm_name": "The Longevity Fund",
+          "city": "San Francisco"
+        },
+        {
+          "index": 9,
+          "full_name": "Jared Furtado",
+          "email": "jared@thursday.vc",
+          "firm_name": "The Mini Fund",
+          "city": "San Francisco"
+        },
+        {
+          "index": 10,
+          "full_name": "Darren Hite",
+          "email": "dhite@thvc.co",
+          "firm_name": "The Space Between",
+          "city": "San Francisco"
+        }
+      ]
+    },
+    "batch_3": {
+      "label": "Contacts 11-16",
+      "contacts": [
+        {
+          "index": 11,
+          "full_name": "Chris Redlitz",
+          "email": "credlitz@transmediacapital.com",
+          "firm_name": "The Veteran Fund",
+          "city": "San Francisco"
+        },
+        {
+          "index": 12,
+          "full_name": "Salil S. Pitroda",
+          "email": "salil.pitroda@trinitylanecapital.com",
+          "firm_name": "Thursday Ventures",
+          "city": "San Francisco"
+        },
+        {
+          "index": 13,
+          "full_name": "Reilly P. Brennan",
+          "email": "rpb@trucks.vc",
+          "firm_name": "Transformational Healthcare",
+          "city": "San Francisco"
+        },
+        {
+          "index": 14,
+          "full_name": "Patrick Gallagher",
+          "email": "patrick@tuesday.vc",
+          "firm_name": "Transmedia Capital",
+          "city": "San Francisco"
+        },
+        {
+          "index": 15,
+          "full_name": "Tod M. Sacerdoti",
+          "email": "tod@flexcapital.com",
+          "firm_name": "Trinity Lane Capital",
+          "city": "San Francisco"
+        },
+        {
+          "index": 16,
+          "full_name": "Leshika Samarasinghe",
+          "email": "leshika@twineventures.com",
+          "firm_name": "Trucks Venture Capital",
+          "city": "San Francisco"
+        }
+      ]
+    },
+    "batch_4": {
+      "label": "Contacts 17-21",
+      "contacts": [
+        {
+          "index": 17,
+          "full_name": "Kent Goldman",
+          "email": "kent@upsidevc.com",
+          "firm_name": "Tuesday Capital",
+          "city": "San Francisco"
+        },
+        {
+          "index": 18,
+          "full_name": "Lyon Wong",
+          "email": "lyon@v0invest.com",
+          "firm_name": "Turbo Ventures",
+          "city": "San Francisco"
+        },
+        {
+          "index": 19,
+          "full_name": "Jing Ge",
+          "email": "jge@vectors.earth",
+          "firm_name": "Twine Ventures",
+          "city": "San Francisco"
+        },
+        {
+          "index": 20,
+          "full_name": "Yigit Ihlamur",
+          "email": "yigit@vela.partners",
+          "firm_name": "Upside Partnership",
+          "city": "San Francisco"
+        },
+        {
+          "index": 21,
+          "full_name": "Joseph T. Hasselmann",
+          "email": "jh@verdure.vc",
+          "firm_name": "V0 (San Francisco)",
+          "city": "San Francisco"
+        }
+      ]
+    }
+  }
+}
