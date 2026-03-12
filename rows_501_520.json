@@ -1,0 +1,202 @@
+[
+  {
+    "row_number": 501,
+    "name": "Fiat Ventures",
+    "email": "daniel@focal.vc",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Daniel Darling"
+    }
+  },
+  {
+    "row_number": 502,
+    "name": "Focal (VC)",
+    "email": "kim@baybridgevc.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Kim Kolt"
+    }
+  },
+  {
+    "row_number": 503,
+    "name": "For Good Ventures",
+    "email": "mbrezina@fordstreetvc.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Matthew Brezina"
+    }
+  },
+  {
+    "row_number": 504,
+    "name": "Ford Street Ventures",
+    "email": "alice@foreground.vc",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Alice Zheng"
+    }
+  },
+  {
+    "row_number": 505,
+    "name": "Foreground Capital",
+    "email": "bobby@formcapital.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Bobby Goodlatte"
+    }
+  },
+  {
+    "row_number": 506,
+    "name": "Form Capital",
+    "email": "tytus@fresco.vc",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Tytus Michalski"
+    }
+  },
+  {
+    "row_number": 507,
+    "name": "Fresco Capital",
+    "email": "alex@fresh-ventures.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Alexandre Scialom"
+    }
+  },
+  {
+    "row_number": 508,
+    "name": "Fresh Ventures",
+    "email": "rachel@generationship.ai",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Rachel Chalmers"
+    }
+  },
+  {
+    "row_number": 509,
+    "name": "Generationship",
+    "email": "jenny@genoavc.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Jenny Rooke"
+    }
+  },
+  {
+    "row_number": 510,
+    "name": "Genoa Ventures",
+    "email": "robin@goat.vc",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Robin Chan"
+    }
+  },
+  {
+    "row_number": 511,
+    "name": "Goat Capital",
+    "email": "ron@govtechfund.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Ronald Bouganim"
+    }
+  },
+  {
+    "row_number": 512,
+    "name": "Goat Capital Management",
+    "email": "dan@gramercyventures.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Dan Schwartz"
+    }
+  },
+  {
+    "row_number": 513,
+    "name": "Govtech Fund",
+    "email": "shailesh@granitehill.net",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Shailesh Jayantilal Mehta"
+    }
+  },
+  {
+    "row_number": 514,
+    "name": "Gramercy Ventures",
+    "email": "lawrence@greenbookventures.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Lawrence P. Bancroft"
+    }
+  },
+  {
+    "row_number": 515,
+    "name": "Granite Hill Capital Partners",
+    "email": "vikram@stakehouse.fund",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Vikram Lakhwara"
+    }
+  },
+  {
+    "row_number": 516,
+    "name": "Green Book Ventures",
+    "email": "mikewalsh@greenvisorcapital.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Michael Walsh"
+    }
+  },
+  {
+    "row_number": 517,
+    "name": "Green Cow Venture Capital",
+    "email": "rjackson@jmpg.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Raymond S. Jackson"
+    }
+  },
+  {
+    "row_number": 518,
+    "name": "Green Visor Capital",
+    "email": "steve@highgearventures.com",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Steven Jeffrey Taubman"
+    }
+  },
+  {
+    "row_number": 519,
+    "name": "Harvest Capital Strategies",
+    "email": "max@hivemind.vc",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Max Webster"
+    }
+  },
+  {
+    "row_number": 520,
+    "name": "HighGear Ventures",
+    "email": "alexandria@hometeam.vc",
+    "has_valid_email": true,
+    "other_info": {
+      "city": "San Francisco",
+      "contact": "Alexandria Lafci"
+    }
+  }
+]
