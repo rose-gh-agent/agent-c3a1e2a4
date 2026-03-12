@@ -1,0 +1,162 @@
+[
+  {
+    "row_number": 241,
+    "firm": "Interwoven Ventures",
+    "city": "New York",
+    "contact_person": "Sarah G. Foley",
+    "email": "sarah@swatequitypartners.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 242,
+    "firm": "InviNext Growth Partners",
+    "city": "New York",
+    "contact_person": "Jean Sini",
+    "email": "jean@irregex.vc",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 243,
+    "firm": "Irregular Expressions",
+    "city": "New York",
+    "contact_person": "Joshua Jacobson",
+    "email": "josh@jventures.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 244,
+    "firm": "J Ventures Mgmt",
+    "city": "New York",
+    "contact_person": "Bruce A. Jaffe",
+    "email": "bruce@j4.ventures",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 245,
+    "firm": "J4.Ventures",
+    "city": "New York",
+    "contact_person": "Parker Wittman",
+    "email": "parker@jackalope.vc",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 246,
+    "firm": "Jackalope Ventures",
+    "city": "New York",
+    "contact_person": "Lindsay Hoover",
+    "email": "lindsay@jls.fund",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 247,
+    "firm": "JLS Fund",
+    "city": "New York",
+    "contact_person": "Jeffrey Parkinson",
+    "email": "jparkinson@kecventures.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 248,
+    "firm": "KEC Ventures",
+    "city": "New York",
+    "contact_person": "Andreas Panayi",
+    "email": "andreas@kinisisventures.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 249,
+    "firm": "Kinisis Ventures",
+    "city": "New York",
+    "contact_person": "Dan Rowe",
+    "email": "dan@kitchenfund.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 250,
+    "firm": "Kitchen Fund",
+    "city": "New York",
+    "contact_person": "Rakesh Gupta",
+    "email": "rakesh.gupta@kiwitech.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 251,
+    "firm": "KiwiVenture Partners",
+    "city": "New York",
+    "contact_person": "David Williams",
+    "email": "dw@knick.io",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 252,
+    "firm": "Knickerbocker Capital (New York)",
+    "city": "New York",
+    "contact_person": "Geri Kirilova",
+    "email": "geri@laconiacapitalgroup.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 253,
+    "firm": "Laconia Capital Group",
+    "city": "New York",
+    "contact_person": "John Neamonitis",
+    "email": "john@lakehouse.vc",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 254,
+    "firm": "Lakehouse Ventures",
+    "city": "New York",
+    "contact_person": "Jason Lu",
+    "email": "jason@latercapital.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 255,
+    "firm": "Later Capital",
+    "city": "New York",
+    "contact_person": "Steven Grin",
+    "email": "sgrin@lateralfrontiers.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 256,
+    "firm": "Lateral Frontiers VC",
+    "city": "New York",
+    "contact_person": "Brittany Gorevic Laughlin",
+    "email": "brittany@lattice.vc",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 257,
+    "firm": "Lattice Ventures",
+    "city": "New York",
+    "contact_person": "Rachel Wu",
+    "email": "rachel@legendary.vc",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 258,
+    "firm": "Legendary Ventures",
+    "city": "New York",
+    "contact_person": "Alexey Tsyplakov",
+    "email": "alex@lightray.vc",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 259,
+    "firm": "Light Ray Ventures",
+    "city": "New York",
+    "contact_person": "Jamie Roberts Seltzer",
+    "email": "jamie@incredibledream.com",
+    "is_email_valid": true
+  },
+  {
+    "row_number": 260,
+    "firm": "LightShed Ventures",
+    "city": "New York",
+    "contact_person": "Alexander Holt",
+    "email": "alexander@limitlessventures.us",
+    "is_email_valid": true
+  }
+]
