@@ -1,0 +1,211 @@
+{
+  "detected_columns": [
+    "name",
+    "city",
+    "contact",
+    "email"
+  ],
+  "missing_email_row_numbers": [],
+  "records": [
+    {
+      "row_number": 261,
+      "full_name": "Alexander Holt",
+      "email": "alexander@limitlessventures.us",
+      "firm_company": "LightShed Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 262,
+      "full_name": "Marcus Glover",
+      "email": "mglover@lockstepventures.com",
+      "firm_company": "Limitless Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 263,
+      "full_name": "Sergey Young",
+      "email": "sy@peakstate.vc",
+      "firm_company": "Lockstep Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 264,
+      "full_name": "Adam Besvinick",
+      "email": "adam@lookingglass.vc",
+      "firm_company": "Longevity Vision Fund",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 265,
+      "full_name": "Paul Capon",
+      "email": "paul@lunacapventures.com",
+      "firm_company": "Looking Glass Capital",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 266,
+      "full_name": "Steven Berg",
+      "email": "sberg@lyticalventures.com",
+      "firm_company": "LunaCap Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 267,
+      "full_name": "Mark Ghermezian",
+      "email": "mark.ghermezian@braze.com",
+      "firm_company": "Lytical Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 268,
+      "full_name": "Moshe Bellows",
+      "email": "mbellows@maccabee.vc",
+      "firm_company": "m]x[v Capital",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 269,
+      "full_name": "Antonio Luck",
+      "email": "antonio@matterscale.com",
+      "firm_company": "Maccabee Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 270,
+      "full_name": "Lauren Bonner",
+      "email": "lauren.bonner@juristat.com",
+      "firm_company": "MatterScale Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 271,
+      "full_name": "Rafael Torgovicky",
+      "email": "rt@med-explore.com",
+      "firm_company": "MBM Capital",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 272,
+      "full_name": "Scott Law",
+      "email": "scott@meridianstreetcapital.com",
+      "firm_company": "Medexplore Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 273,
+      "full_name": "Caroline Kassie",
+      "email": "caroline@metrodora.vc",
+      "firm_company": "Meridian Street Capital",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 274,
+      "full_name": "Owen E.H. Meyer",
+      "email": "owen@meyerglobalmgmt.com",
+      "firm_company": "Metrodora Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 275,
+      "full_name": "Gary Benerofe",
+      "email": "gary@clicksandbricks.digital",
+      "firm_company": "Meyer Global Management",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 276,
+      "full_name": "Michael Weinmann",
+      "email": "mike@mvolutionpartners.com",
+      "firm_company": "Mu Ventures",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 277,
+      "full_name": "John Michael Cataldi",
+      "email": "john@clearhealthpass.com",
+      "firm_company": "MVolution Partners",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 278,
+      "full_name": "Ivan Alo",
+      "email": "ivan@newage.vc",
+      "firm_company": "Native American Venture Fund",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 279,
+      "full_name": "Elly Truesdell",
+      "email": "elly@madebynacho.com",
+      "firm_company": "New Age Capital",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    },
+    {
+      "row_number": 280,
+      "full_name": "Alex Marinier",
+      "email": "alex@newformcap.com",
+      "firm_company": "New Fare Partners",
+      "title_role": null,
+      "other_fields": {
+        "city": "New York"
+      }
+    }
+  ]
+}
