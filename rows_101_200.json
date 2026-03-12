@@ -1,0 +1,728 @@
+{
+  "columns": [
+    "name",
+    "city",
+    "contact",
+    "email"
+  ],
+  "total_extracted_rows": 100,
+  "chunks": {
+    "chunk_101-120": [
+      {
+        "row_index": 101,
+        "name": "SeaX Ventures",
+        "city": "Millbrea",
+        "contact": "Supachai Parchariyanon",
+        "email": "kid@seaxventures.vc"
+      },
+      {
+        "row_index": 102,
+        "name": "Silicon Valley Quad",
+        "city": "Mountain View",
+        "contact": "Raj-Ann Rekhi Gill",
+        "email": "rajann@svquad.com"
+      },
+      {
+        "row_index": 103,
+        "name": "Anexa Capital (US)",
+        "city": "Mountain View",
+        "contact": "Dejana Dua",
+        "email": "dejanadua@anexacapital.com"
+      },
+      {
+        "row_index": 104,
+        "name": "Growth Enjin Partners",
+        "city": "Mountain View",
+        "contact": "Kazuki Notsu",
+        "email": "kazuki@incubatefund.com"
+      },
+      {
+        "row_index": 105,
+        "name": "Monta Vista Capital",
+        "city": "Mountain View",
+        "contact": "Venktesh Shukla",
+        "email": "venk@montavc.com"
+      },
+      {
+        "row_index": 106,
+        "name": "Suvan Ventures",
+        "city": "Mountain View",
+        "contact": "Radhesh Kanumury",
+        "email": "radhesh@suvan.vc"
+      },
+      {
+        "row_index": 107,
+        "name": "The Angels' Forum",
+        "city": "Mountain View",
+        "contact": "Leif Langensand",
+        "email": "leif.langensand@loqate.com"
+      },
+      {
+        "row_index": 108,
+        "name": "Eight Bar Partners",
+        "city": "New Canaan",
+        "contact": "Thomas Edwin Doster",
+        "email": "tdoster@eightbarpartners.com"
+      },
+      {
+        "row_index": 109,
+        "name": "Cloquet Capital Partners",
+        "city": "New Canaan",
+        "contact": "Burton E. McGillivray",
+        "email": "burt@cloquetcapital.com"
+      },
+      {
+        "row_index": 110,
+        "name": "Bulldog Innovation Group",
+        "city": "New Haven",
+        "contact": "Laura Kauer Rodriguez",
+        "email": "laura@bulldog.vc"
+      },
+      {
+        "row_index": 111,
+        "name": "Elm Street Ventures",
+        "city": "New Haven",
+        "contact": "Robert Bettigole",
+        "email": "rbettigole@elmvc.com"
+      },
+      {
+        "row_index": 112,
+        "name": "1540 Ventures",
+        "city": "New York",
+        "contact": "Robert King",
+        "email": "king@crewecapital.com"
+      },
+      {
+        "row_index": 113,
+        "name": "2048 Ventures",
+        "city": "New York",
+        "contact": "Alex Iskold",
+        "email": "alex@2048.vc"
+      },
+      {
+        "row_index": 114,
+        "name": "355 Capital",
+        "city": "New York",
+        "contact": "Nissim X Cohen",
+        "email": "xc@355cap.com"
+      },
+      {
+        "row_index": 115,
+        "name": "3ig Ventures",
+        "city": "New York",
+        "contact": "Chip Brian",
+        "email": "chip@3igventures.com"
+      },
+      {
+        "row_index": 116,
+        "name": "97212 Ventures",
+        "city": "New York",
+        "contact": "Eyal Bino",
+        "email": "eyal@97212.vc"
+      },
+      {
+        "row_index": 117,
+        "name": "Abundance Partners",
+        "city": "New York",
+        "contact": "Vladimir Efros",
+        "email": "vefros@abundancelp.com"
+      },
+      {
+        "row_index": 118,
+        "name": "Academy Investor Network",
+        "city": "New York",
+        "contact": "Sherman Williams",
+        "email": "sherman@academyinvestor.com"
+      },
+      {
+        "row_index": 119,
+        "name": "Access Ventures (New York)",
+        "city": "New York",
+        "contact": "Mudit Dawar",
+        "email": "mudit@accessventures.co"
+      },
+      {
+        "row_index": 120,
+        "name": "Adnate Capital",
+        "city": "New York",
+        "contact": "Benjamin Avor",
+        "email": "bavor@adnatecapital.com"
+      }
+    ],
+    "chunk_121-140": [
+      {
+        "row_index": 121,
+        "name": "AG Dillon & Co",
+        "city": "New York",
+        "contact": "Aaron Dillon",
+        "email": "aaron.dillon@agdillon.com"
+      },
+      {
+        "row_index": 122,
+        "name": "AIF",
+        "city": "New York",
+        "contact": "Christopher R. Male",
+        "email": "chris@autismimpact.fund"
+      },
+      {
+        "row_index": 123,
+        "name": "AlleyCorp",
+        "city": "New York",
+        "contact": "Kevin p. Ryan",
+        "email": "kevinryan@alleycorp.com"
+      },
+      {
+        "row_index": 124,
+        "name": "Almanac Insights",
+        "city": "New York",
+        "contact": "David Barber",
+        "email": "david@almanacinvest.com"
+      },
+      {
+        "row_index": 125,
+        "name": "Alrion Pillar Capital",
+        "city": "New York",
+        "contact": "Anthony Ofongo",
+        "email": "anthony@alrionpillarcapital.com"
+      },
+      {
+        "row_index": 126,
+        "name": "Altari Ventures",
+        "city": "New York",
+        "contact": "Anna Garcia",
+        "email": "anna@altariventures.com"
+      },
+      {
+        "row_index": 127,
+        "name": "Altitude Investment Management",
+        "city": "New York",
+        "contact": "Michael Goldberg",
+        "email": "mgoldberg@altitudein.com"
+      },
+      {
+        "row_index": 128,
+        "name": "Altra Venture Partners",
+        "city": "New York",
+        "contact": "Jamie Melzer",
+        "email": "jamie@altravp.com"
+      },
+      {
+        "row_index": 129,
+        "name": "Aperture Venture Partners",
+        "city": "New York",
+        "contact": "Eric H. Sillman",
+        "email": "eric@aperturevp.com"
+      },
+      {
+        "row_index": 130,
+        "name": "ARC Angel Fund",
+        "city": "New York",
+        "contact": "Edward G. Reitler",
+        "email": "ereitler@reitlerlaw.com"
+      },
+      {
+        "row_index": 131,
+        "name": "Arcus Ventures",
+        "city": "New York",
+        "contact": "Chad Hellmann",
+        "email": "ch@arcusventures.com"
+      },
+      {
+        "row_index": 132,
+        "name": "Arcview Ventures",
+        "city": "New York",
+        "contact": "Jeffrey E. Finkle",
+        "email": "jeffreyfinkle@arcviewventures.com"
+      },
+      {
+        "row_index": 133,
+        "name": "Ascent Biomedical Ventures",
+        "city": "New York",
+        "contact": "Steven Hochberg",
+        "email": "shochberg@abvlp.com"
+      },
+      {
+        "row_index": 134,
+        "name": "Atypical Ventures",
+        "city": "New York",
+        "contact": "Christopher Wake",
+        "email": "chris@atypical.vc"
+      },
+      {
+        "row_index": 135,
+        "name": "Avant Bio",
+        "city": "New York",
+        "contact": "Daniella Kranjac",
+        "email": "daniella@avant.bio"
+      },
+      {
+        "row_index": 136,
+        "name": "Azuro Capital",
+        "city": "New York",
+        "contact": "Yuly Djaparidze",
+        "email": "yuly@azurocapital.com"
+      },
+      {
+        "row_index": 137,
+        "name": "B3 Capital",
+        "city": "New York",
+        "contact": "Nikolas Huth",
+        "email": "nikolas@b3cap.co"
+      },
+      {
+        "row_index": 138,
+        "name": "Backwards Capital",
+        "city": "New York",
+        "contact": "Chris Zarou",
+        "email": "chris@backwardscapital.com"
+      },
+      {
+        "row_index": 139,
+        "name": "Banter Capital (United States)",
+        "city": "New York",
+        "contact": "Heston Berkman",
+        "email": "heston@bantercap.com"
+      },
+      {
+        "row_index": 140,
+        "name": "Banyan Ventures (New York)",
+        "city": "New York",
+        "contact": "Sam Awrabi",
+        "email": "sam@banyan-vc.com"
+      }
+    ],
+    "chunk_141-160": [
+      {
+        "row_index": 141,
+        "name": "Basis Vectors",
+        "city": "New York",
+        "contact": "Ambarish Narayan Gupta",
+        "email": "ambarish@basisvectors.com"
+      },
+      {
+        "row_index": 142,
+        "name": "BAT VC",
+        "city": "New York",
+        "contact": "Aditya Mishra",
+        "email": "aditya@bat-vc.com"
+      },
+      {
+        "row_index": 143,
+        "name": "BBG Ventures (North America)",
+        "city": "New York",
+        "contact": "Susan M. Lyne",
+        "email": "susan.lyne@bbgventures.com"
+      },
+      {
+        "row_index": 144,
+        "name": "Be Human Capital",
+        "city": "New York",
+        "contact": "Himanshu Niranjani",
+        "email": "himanshu@behuman.capital"
+      },
+      {
+        "row_index": 145,
+        "name": "Belief Capital",
+        "city": "New York",
+        "contact": "Kevin Costa",
+        "email": "kevin@beliefcapital.co"
+      },
+      {
+        "row_index": 146,
+        "name": "Benchstrength (New York)",
+        "city": "New York",
+        "contact": "Ken Chenault",
+        "email": "kchenault@benchstrengthvc.com"
+      },
+      {
+        "row_index": 147,
+        "name": "Bettor Capital",
+        "city": "New York",
+        "contact": "David VanEgmond",
+        "email": "dave@bettorcapital.com"
+      },
+      {
+        "row_index": 148,
+        "name": "BFF VC",
+        "city": "New York",
+        "contact": "Miguel Burger-Calderon",
+        "email": "miguel@bff.vc"
+      },
+      {
+        "row_index": 149,
+        "name": "Black Opal Ventures",
+        "city": "New York",
+        "contact": "Eileen Tanghal",
+        "email": "eileen.tanghal@blackopalventures.com"
+      },
+      {
+        "row_index": 150,
+        "name": "Blanck Capital",
+        "city": "New York",
+        "contact": "Jason K. Blanck",
+        "email": "jason@blanckcapital.com"
+      },
+      {
+        "row_index": 151,
+        "name": "Bleu Capital",
+        "city": "New York",
+        "contact": "Julien Lepleux",
+        "email": "julien@bleucap.com"
+      },
+      {
+        "row_index": 152,
+        "name": "Blue Ox Healthcare Partners",
+        "city": "New York",
+        "contact": "Alexander R. Rogers",
+        "email": "alex@blueoxhcp.com"
+      },
+      {
+        "row_index": 153,
+        "name": "Blue Scorpion Investments",
+        "city": "New York",
+        "contact": "Gautam Ahuja",
+        "email": "ga@bluescorpioninv.com"
+      },
+      {
+        "row_index": 154,
+        "name": "Boro Capital",
+        "city": "New York",
+        "contact": "Daniel Roever",
+        "email": "daniel@borocapital.com"
+      },
+      {
+        "row_index": 155,
+        "name": "Bridgespan VC",
+        "city": "New York",
+        "contact": "Adrien Gautier",
+        "email": "adrien@bridgespan.vc"
+      },
+      {
+        "row_index": 156,
+        "name": "Bright Ventures",
+        "city": "New York",
+        "contact": "Lenore Champagne Beirne",
+        "email": "lenore@brightventures.io"
+      },
+      {
+        "row_index": 157,
+        "name": "Broad St Ventures",
+        "city": "New York",
+        "contact": "Ralonda Johnson",
+        "email": "ralonda@broadstventures.com"
+      },
+      {
+        "row_index": 158,
+        "name": "Bullish (Consulting Services)",
+        "city": "New York",
+        "contact": "Michael Duda",
+        "email": "mike@bullish.co"
+      },
+      {
+        "row_index": 159,
+        "name": "Burnt Island Ventures",
+        "city": "New York",
+        "contact": "Thomas Collin Eustace Ferguson",
+        "email": "tom@burntislandventures.com"
+      },
+      {
+        "row_index": 160,
+        "name": "Cadenza Capital",
+        "city": "New York",
+        "contact": "Max Shapiro",
+        "email": "max@cadenza.vc"
+      }
+    ],
+    "chunk_161-180": [
+      {
+        "row_index": 161,
+        "name": "Capital 49",
+        "city": "New York",
+        "contact": "Jack Zhang",
+        "email": "jack@airwallex.com"
+      },
+      {
+        "row_index": 162,
+        "name": "Carbon Ventures",
+        "city": "New York",
+        "contact": "Jason Cahill",
+        "email": "jason@carbonventures.vc"
+      },
+      {
+        "row_index": 163,
+        "name": "Carthage Capital Group",
+        "city": "New York",
+        "contact": "Steve Sallion",
+        "email": "steve@carthage.net"
+      },
+      {
+        "row_index": 164,
+        "name": "Centre Street Partners",
+        "city": "New York",
+        "contact": "Abie J. Cohen",
+        "email": "abie@centrestreet.partners"
+      },
+      {
+        "row_index": 165,
+        "name": "Ceras Ventures",
+        "city": "New York",
+        "contact": "Sarah Abuagela",
+        "email": "sa@cerasvc.com"
+      },
+      {
+        "row_index": 166,
+        "name": "Chenel Capital Partners",
+        "city": "New York",
+        "contact": "Richard Chenel",
+        "email": "richard.chenel@chenelcapital.com"
+      },
+      {
+        "row_index": 167,
+        "name": "Chestnut Street Ventures",
+        "city": "New York",
+        "contact": "Brian Keil",
+        "email": "brian@av.vc"
+      },
+      {
+        "row_index": 168,
+        "name": "CitizenX",
+        "city": "New York",
+        "contact": "Emilio DiSanluciano",
+        "email": "emilio@citizenx.co"
+      },
+      {
+        "row_index": 169,
+        "name": "CJNV BioVentures",
+        "city": "New York",
+        "contact": "Chau Q. Khuong",
+        "email": "ckhuong@cjnv-bioventures.com"
+      },
+      {
+        "row_index": 170,
+        "name": "CoFound Partners",
+        "city": "New York",
+        "contact": "Jordan Wan",
+        "email": "jordan@cofoundpartners.com"
+      },
+      {
+        "row_index": 171,
+        "name": "Collate Capital",
+        "city": "New York",
+        "contact": "Mark C. Weaver",
+        "email": "mweaver@collatecapital.com"
+      },
+      {
+        "row_index": 172,
+        "name": "Colle Capital Partners",
+        "city": "New York",
+        "contact": "Victoria Grace",
+        "email": "victoria@collecapital.com"
+      },
+      {
+        "row_index": 173,
+        "name": "Collide Capital",
+        "city": "New York",
+        "contact": "Brian Hollins",
+        "email": "brian@collidecap.com"
+      },
+      {
+        "row_index": 174,
+        "name": "Communitas Capital Partners",
+        "city": "New York",
+        "contact": "Douglas Atkin",
+        "email": "douga@communitascapital.com"
+      },
+      {
+        "row_index": 175,
+        "name": "ComposeVC",
+        "city": "New York",
+        "contact": "Cem Kemal Mimaro\u011flu",
+        "email": "cem.mimaroglu@composevc.com"
+      },
+      {
+        "row_index": 176,
+        "name": "Connectivity Ventures Fund",
+        "city": "New York",
+        "contact": "Jaahred Thomas",
+        "email": "jct@connectivity.vc"
+      },
+      {
+        "row_index": 177,
+        "name": "Cordes Foundation",
+        "city": "New York",
+        "contact": "Eric Stephenson",
+        "email": "eric@cordesfoundation.org"
+      },
+      {
+        "row_index": 178,
+        "name": "Courtside Ventures",
+        "city": "New York",
+        "contact": "Vasudev Badarinarayan Kulkarni",
+        "email": "vasu@courtsidevc.com"
+      },
+      {
+        "row_index": 179,
+        "name": "Credibly Neutral",
+        "city": "New York",
+        "contact": "Lisa Cuesta Bunin",
+        "email": "lisa@aztecprotocol.com"
+      },
+      {
+        "row_index": 180,
+        "name": "Crew Capital",
+        "city": "New York",
+        "contact": "Brandon Deer",
+        "email": "brandon.deer@uipath.com"
+      }
+    ],
+    "chunk_181-200": [
+      {
+        "row_index": 181,
+        "name": "Crystal Venture Partners",
+        "city": "New York",
+        "contact": "Jonathan H.F Crystal",
+        "email": "jhfc@crystalventurepartners.com"
+      },
+      {
+        "row_index": 182,
+        "name": "Cult Capital",
+        "city": "New York",
+        "contact": "John M. Kenney",
+        "email": "jmk@cultcapital.com"
+      },
+      {
+        "row_index": 183,
+        "name": "Daraja Capital",
+        "city": "New York",
+        "contact": "Raudline Etienne",
+        "email": "etienne@brightwoodlp.com"
+      },
+      {
+        "row_index": 184,
+        "name": "Datapower Ventures",
+        "city": "New York",
+        "contact": "David Yakobovitch",
+        "email": "david@datapower.vc"
+      },
+      {
+        "row_index": 185,
+        "name": "Decisive Point",
+        "city": "New York",
+        "contact": "Thomas Hendrix",
+        "email": "tommy@decisivepoint.com"
+      },
+      {
+        "row_index": 186,
+        "name": "Delta Blockchain Fund",
+        "city": "New York",
+        "contact": "Kavita Gupta",
+        "email": "kavita@deltafund.io"
+      },
+      {
+        "row_index": 187,
+        "name": "Demand Signal Ventures",
+        "city": "New York",
+        "contact": "Daniel Selli",
+        "email": "dselli@demandsignalventurepartners.com"
+      },
+      {
+        "row_index": 188,
+        "name": "Digital Irish Angels",
+        "city": "New York",
+        "contact": "David Beatty",
+        "email": "david@digitalirish.com"
+      },
+      {
+        "row_index": 189,
+        "name": "Divergent Capital (New York)",
+        "city": "New York",
+        "contact": "Katie Shea",
+        "email": "katie@divergenthq.com"
+      },
+      {
+        "row_index": 190,
+        "name": "DMC Capital Funding",
+        "city": "New York",
+        "contact": "Andrew Lowinger",
+        "email": "alowinger@dmccapitalfunding.com"
+      },
+      {
+        "row_index": 191,
+        "name": "Dynamk Capital",
+        "city": "New York",
+        "contact": "Ann Partlow",
+        "email": "apartlow@earthrisecapital.com"
+      },
+      {
+        "row_index": 192,
+        "name": "Earthrise Capital",
+        "city": "New York",
+        "contact": "Roger Ehrenberg",
+        "email": "roger@ebergcapital.com"
+      },
+      {
+        "row_index": 193,
+        "name": "Eberg Capital",
+        "city": "New York",
+        "contact": "Shreyas Slater Chityala",
+        "email": "sschityala@eipfund.com"
+      },
+      {
+        "row_index": 194,
+        "name": "Elevate Innovation Partners",
+        "city": "New York",
+        "contact": "William McClelland",
+        "email": "will@elizabethstreet.vc"
+      },
+      {
+        "row_index": 195,
+        "name": "Elizabeth Street Ventures",
+        "city": "New York",
+        "contact": "David Martin Geliebter",
+        "email": "dgeliebter@criticaldiagnostics.com"
+      },
+      {
+        "row_index": 196,
+        "name": "Embark Healthcare",
+        "city": "New York",
+        "contact": "Avani Patel",
+        "email": "avani@embercompany.co"
+      },
+      {
+        "row_index": 197,
+        "name": "ember co.",
+        "city": "New York",
+        "contact": "Joshua Smith",
+        "email": "joshua.smith@emeraldmanagers.com"
+      },
+      {
+        "row_index": 198,
+        "name": "Emerald Development Managers",
+        "city": "New York",
+        "contact": "Melissa Frakman",
+        "email": "mfrakman@em.vc"
+      },
+      {
+        "row_index": 199,
+        "name": "Emphasis Ventures (EMVC)",
+        "city": "New York",
+        "contact": "Anthony Buffa",
+        "email": "abuffa@endeavorcap.com"
+      },
+      {
+        "row_index": 200,
+        "name": "Endeavor Capital Management",
+        "city": "New York",
+        "contact": "Mahesh Ramakrishnan",
+        "email": "mahesh@ev3.xyz"
+      }
+    ]
+  },
+  "validation": {
+    "101-120": 20,
+    "121-140": 20,
+    "141-160": 20,
+    "161-180": 20,
+    "181-200": 20
+  }
+}
