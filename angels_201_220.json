@@ -1,0 +1,166 @@
+{
+  "description": "Angel investors extracted from rows 201-220 of vcs-and-angels.csv",
+  "total_rows_extracted": 20,
+  "groups": {
+    "A": {
+      "label": "Group A (Rows 201-205)",
+      "angels": [
+        {
+          "row": 201,
+          "firm": "Emphasis Ventures (EMVC)",
+          "contact": "Anthony Buffa",
+          "email": "abuffa@endeavorcap.com",
+          "city": "New York"
+        },
+        {
+          "row": 202,
+          "firm": "Endeavor Capital Management",
+          "contact": "Mahesh Ramakrishnan",
+          "email": "mahesh@ev3.xyz",
+          "city": "New York"
+        },
+        {
+          "row": 203,
+          "firm": "EV3",
+          "contact": "Adam Huttler",
+          "email": "adam.huttler@exponentialcreativity.vc",
+          "city": "New York"
+        },
+        {
+          "row": 204,
+          "firm": "Exponential Creativity Ventures",
+          "contact": "James C. Murray",
+          "email": "jmurray@exsightventures.com",
+          "city": "New York"
+        },
+        {
+          "row": 205,
+          "firm": "ExSight Ventures",
+          "contact": "David T. Tswamuno",
+          "email": "david@fairbridge.vc",
+          "city": "New York"
+        }
+      ]
+    },
+    "B": {
+      "label": "Group B (Rows 206-210)",
+      "angels": [
+        {
+          "row": 206,
+          "firm": "Fairbridge (New York)",
+          "contact": "Anuradha Duggal",
+          "email": "anu@femalefoundersfund.com",
+          "city": "New York"
+        },
+        {
+          "row": 207,
+          "firm": "Female Founders Fund",
+          "contact": "William F. Detwiler",
+          "email": "bdetwiler@fernbrookmgmt.com",
+          "city": "New York"
+        },
+        {
+          "row": 208,
+          "firm": "Fernbrook Capital Management",
+          "contact": "Matt Straz",
+          "email": "matt@fidiventures.com",
+          "city": "New York"
+        },
+        {
+          "row": 209,
+          "firm": "FiDi Ventures",
+          "contact": "Rob Pellecchia",
+          "email": "rob@figmentcapital.io",
+          "city": "New York"
+        },
+        {
+          "row": 210,
+          "firm": "Figment Capital",
+          "contact": "David Birnbaum",
+          "email": "dbirnbaum@broadwayvideo.com",
+          "city": "New York"
+        }
+      ]
+    },
+    "C": {
+      "label": "Group C (Rows 211-215)",
+      "angels": [
+        {
+          "row": 211,
+          "firm": "Five Four Ventures",
+          "contact": "Andrew Vigneault",
+          "email": "andrew@flexcap.com",
+          "city": "New York"
+        },
+        {
+          "row": 212,
+          "firm": "Flexcap Ventures",
+          "contact": "Ismail Kola",
+          "email": "ismail.kola@forepont.com",
+          "city": "New York"
+        },
+        {
+          "row": 213,
+          "firm": "Forepont Capital Partners",
+          "contact": "Michael Cardamone",
+          "email": "mike@forumvc.com",
+          "city": "New York"
+        },
+        {
+          "row": 214,
+          "firm": "Forum Ventures",
+          "contact": "Jalak Jobanputra",
+          "email": "jalak@fpv.vc",
+          "city": "New York"
+        },
+        {
+          "row": 215,
+          "firm": "Future Perfect Ventures",
+          "contact": "Lev Ekster",
+          "email": "lev@meetgambit.com",
+          "city": "New York"
+        }
+      ]
+    },
+    "D": {
+      "label": "Group D (Rows 216-220)",
+      "angels": [
+        {
+          "row": 216,
+          "firm": "Gambit Ventures",
+          "contact": "Ihar Mahaniok",
+          "email": "ihar@geek-ventures.com",
+          "city": "New York"
+        },
+        {
+          "row": 217,
+          "firm": "Geek Ventures",
+          "contact": "Jason Hishmeh",
+          "email": "sj@getstartupfunding.com",
+          "city": "New York"
+        },
+        {
+          "row": 218,
+          "firm": "Get Startup Funding",
+          "contact": "Miguel Armaza",
+          "email": "miguel@gilgameshvc.com",
+          "city": "New York"
+        },
+        {
+          "row": 219,
+          "firm": "Gilgamesh Ventures",
+          "contact": "Simon G. Gillett",
+          "email": "simon.gillett@gaiiff.com",
+          "city": "New York"
+        },
+        {
+          "row": 220,
+          "firm": "Global AI Internet Freedom Fund",
+          "contact": "Ted Moon",
+          "email": "tmoon@globalbioaccess.com",
+          "city": "New York"
+        }
+      ]
+    }
+  }
+}
